@@ -1,0 +1,21 @@
+
+
+
+
+
+
+                                                                   DBMS = DATA BASE MANAGEMENT SYSTEM
+
+                                 SGBD´R  ( sistema gerenciador de banco de dados )      X      BD ( banco de dados = Conjunto de dados )
+                                                                      Dado X Informação X Conhecimento
+
+
+                  Tema;
+                  Oracle
+                 MySQL
+                 SqlServer
+
+dicas importantes;
+dado: não permite a tomada de decisão
+informação: um conjunto de dados organizados de maneira lógica gera uma informação
+conhecimento: compreensão e aplicação das informações obtidas.
