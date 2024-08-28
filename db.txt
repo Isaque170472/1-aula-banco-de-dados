@@ -19,3 +19,25 @@ dicas importantes;
 dado: não permite a tomada de decisão
 informação: um conjunto de dados organizados de maneira lógica gera uma informação
 conhecimento: compreensão e aplicação das informações obtidas.
+
+
+sqlmagazine.com.br
+
+                       Modelo descritivo: como funciona -regras de negócio - levantamento de dados
+                     /
+Projeto BD
+                    \
+                     Modelo Concentual: BR ou D. Modeler 
+                                                                                         \  
+                                                                                           Mundo Real = Mundo BD - Entidade - Relacionamento - Atributo
+
+
+a) Modelo lógico / Relacional
+                           \
+                            transição prática de BD
+
+b) Modelo Físico
+                 \ 
+                  Prática - SQL
+                                                                   
+
